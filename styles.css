@@ -1,0 +1,35 @@
+:root {
+    --primary-color: #D97706;
+}
+
+body {
+    background-color: var(--primary-color);
+}
+
+.container {
+    text-align: center;
+}
+
+.description {
+    padding: 0.5rem;
+    width: 38%;
+    margin: 2rem auto;
+    border: 2px solid black;
+    text-align: center;
+}
+
+button {
+    padding: 0.5rem;
+    margin: 2rem auto;
+    font-weight: bold;
+    border: 3px solid;
+    font-size: 20px;
+    cursor: pointer;
+    display: block;
+}
+
+#result {
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 2rem;
+}
