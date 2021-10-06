@@ -33,3 +33,8 @@ button {
     font-weight: bolder;
     margin-top: 2rem;
 }
+
+.list-dates{
+    list-style-type: none;
+    font-weight: bold;
+}
